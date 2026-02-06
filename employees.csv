@@ -1,0 +1,101 @@
+EmployeeID,FirstName,LastName,Gender,Department,MaritalStatus,AgeGroup,Years_at_Company,Salary,HireDate,Source,Email
+1,First1,Last1,Female,IT,Divorced,31-40,13,147897,2010-01-01,Campus,employee1@company.com
+2,First2,Last2,Male,HR,Married,20-30,13,44862,2010-01-02,LinkedIn,employee2@company.com
+3,First3,Last3,Male,HR,Married,41-50,8,128915,2010-01-03,Referral,employee3@company.com
+4,First4,Last4,Male,Marketing,Divorced,31-40,11,33336,2010-01-04,Job Board,employee4@company.com
+5,First5,Last5,Male,Sales,Married,41-50,2,69729,2010-01-05,LinkedIn,employee5@company.com
+6,First6,Last6,Female,Finance,Divorced,51-60,10,133310,2010-01-06,Referral,employee6@company.com
+7,First7,Last7,Male,HR,Single,20-30,7,109470,2010-01-07,Campus,employee7@company.com
+8,First8,Last8,Female,Sales,Married,41-50,3,103072,2010-01-08,Referral,employee8@company.com
+9,First9,Last9,Male,IT,Married,31-40,16,149734,2010-01-09,LinkedIn,employee9@company.com
+10,First10,Last10,Male,IT,Divorced,41-50,19,39559,2010-01-10,LinkedIn,employee10@company.com
+11,First11,Last11,Female,Finance,Married,31-40,2,50580,2010-01-11,LinkedIn,employee11@company.com
+12,First12,Last12,Female,IT,Divorced,51-60,11,110508,2010-01-12,Job Board,employee12@company.com
+13,First13,Last13,Female,IT,Married,20-30,6,61233,2010-01-13,LinkedIn,employee13@company.com
+14,First14,Last14,Female,IT,Divorced,20-30,9,91402,2010-01-14,LinkedIn,employee14@company.com
+15,First15,Last15,Male,Marketing,Married,41-50,13,56026,2010-01-15,Referral,employee15@company.com
+16,First16,Last16,Female,Marketing,Married,51-60,13,49845,2010-01-16,LinkedIn,employee16@company.com
+17,First17,Last17,Male,Marketing,Single,51-60,1,76503,2010-01-17,Campus,employee17@company.com
+18,First18,Last18,Female,IT,Married,31-40,11,38279,2010-01-18,Campus,employee18@company.com
+19,First19,Last19,Female,HR,Divorced,51-60,17,107211,2010-01-19,Referral,employee19@company.com
+20,First20,Last20,Female,Finance,Single,31-40,6,46118,2010-01-20,Referral,employee20@company.com
+21,First21,Last21,Male,Sales,Married,51-60,16,75393,2010-01-21,Referral,employee21@company.com
+22,First22,Last22,Female,HR,Single,31-40,6,88794,2010-01-22,Referral,employee22@company.com
+23,First23,Last23,Female,Marketing,Married,31-40,14,102853,2010-01-23,LinkedIn,employee23@company.com
+24,First24,Last24,Male,Sales,Divorced,20-30,13,60076,2010-01-24,Campus,employee24@company.com
+25,First25,Last25,Male,Sales,Divorced,31-40,2,92121,2010-01-25,Campus,employee25@company.com
+26,First26,Last26,Male,IT,Divorced,41-50,14,145202,2010-01-26,Job Board,employee26@company.com
+27,First27,Last27,Female,Finance,Married,31-40,10,110526,2010-01-27,Campus,employee27@company.com
+28,First28,Last28,Male,IT,Divorced,20-30,11,63428,2010-01-28,Campus,employee28@company.com
+29,First29,Last29,Male,Marketing,Single,41-50,17,128809,2010-01-29,LinkedIn,employee29@company.com
+30,First30,Last30,Female,Marketing,Single,51-60,9,55152,2010-01-30,Campus,employee30@company.com
+31,First31,Last31,Male,Sales,Single,51-60,3,48311,2010-01-31,Job Board,employee31@company.com
+32,First32,Last32,Female,Sales,Single,51-60,11,60940,2010-02-01,Campus,employee32@company.com
+33,First33,Last33,Male,Marketing,Divorced,20-30,11,89381,2010-02-02,Referral,employee33@company.com
+34,First34,Last34,Female,Finance,Married,20-30,12,107524,2010-02-03,Campus,employee34@company.com
+35,First35,Last35,Male,Marketing,Married,41-50,13,63927,2010-02-04,Campus,employee35@company.com
+36,First36,Last36,Male,IT,Married,31-40,2,139527,2010-02-05,LinkedIn,employee36@company.com
+37,First37,Last37,Female,Finance,Married,51-60,17,108526,2010-02-06,Job Board,employee37@company.com
+38,First38,Last38,Male,IT,Divorced,41-50,7,45812,2010-02-07,LinkedIn,employee38@company.com
+39,First39,Last39,Female,HR,Divorced,31-40,1,78104,2010-02-08,Campus,employee39@company.com
+40,First40,Last40,Female,Sales,Divorced,31-40,16,66274,2010-02-09,Referral,employee40@company.com
+41,First41,Last41,Female,IT,Married,20-30,6,141704,2010-02-10,LinkedIn,employee41@company.com
+42,First42,Last42,Male,HR,Divorced,31-40,12,148201,2010-02-11,LinkedIn,employee42@company.com
+43,First43,Last43,Female,Sales,Married,41-50,4,91421,2010-02-12,Campus,employee43@company.com
+44,First44,Last44,Female,Marketing,Married,31-40,6,58667,2010-02-13,Job Board,employee44@company.com
+45,First45,Last45,Male,Finance,Divorced,41-50,16,121756,2010-02-14,Job Board,employee45@company.com
+46,First46,Last46,Male,IT,Married,41-50,15,79072,2010-02-15,LinkedIn,employee46@company.com
+47,First47,Last47,Male,Marketing,Married,31-40,4,146762,2010-02-16,LinkedIn,employee47@company.com
+48,First48,Last48,Female,Finance,Divorced,51-60,7,109042,2010-02-17,Job Board,employee48@company.com
+49,First49,Last49,Female,HR,Single,41-50,4,114207,2010-02-18,LinkedIn,employee49@company.com
+50,First50,Last50,Female,Finance,Single,31-40,6,46105,2010-02-19,Referral,employee50@company.com
+51,First51,Last51,Female,Sales,Single,31-40,13,102293,2010-02-20,LinkedIn,employee51@company.com
+52,First52,Last52,Male,Finance,Married,41-50,10,50917,2010-02-21,Referral,employee52@company.com
+53,First53,Last53,Male,IT,Married,20-30,7,44522,2010-02-22,Campus,employee53@company.com
+54,First54,Last54,Female,HR,Married,31-40,11,43328,2010-02-23,LinkedIn,employee54@company.com
+55,First55,Last55,Female,Marketing,Single,20-30,14,125643,2010-02-24,Campus,employee55@company.com
+56,First56,Last56,Male,IT,Divorced,41-50,8,80601,2010-02-25,Campus,employee56@company.com
+57,First57,Last57,Female,Sales,Divorced,31-40,14,69711,2010-02-26,Campus,employee57@company.com
+58,First58,Last58,Female,HR,Married,41-50,17,120420,2010-02-27,Job Board,employee58@company.com
+59,First59,Last59,Female,Sales,Divorced,41-50,10,37490,2010-02-28,Campus,employee59@company.com
+60,First60,Last60,Female,HR,Single,41-50,14,93101,2010-03-01,LinkedIn,employee60@company.com
+61,First61,Last61,Male,HR,Divorced,41-50,5,78168,2010-03-02,Referral,employee61@company.com
+62,First62,Last62,Male,Sales,Single,31-40,1,117503,2010-03-03,Campus,employee62@company.com
+63,First63,Last63,Female,HR,Married,20-30,10,111284,2010-03-04,LinkedIn,employee63@company.com
+64,First64,Last64,Female,HR,Divorced,31-40,16,35122,2010-03-05,Job Board,employee64@company.com
+65,First65,Last65,Male,HR,Single,31-40,5,72269,2010-03-06,Referral,employee65@company.com
+66,First66,Last66,Male,Marketing,Single,51-60,9,80964,2010-03-07,Job Board,employee66@company.com
+67,First67,Last67,Female,Sales,Married,41-50,3,104760,2010-03-08,Job Board,employee67@company.com
+68,First68,Last68,Male,HR,Divorced,20-30,4,102261,2010-03-09,Job Board,employee68@company.com
+69,First69,Last69,Female,Finance,Divorced,41-50,19,144059,2010-03-10,Campus,employee69@company.com
+70,First70,Last70,Female,Finance,Single,20-30,1,123613,2010-03-11,Referral,employee70@company.com
+71,First71,Last71,Male,Sales,Single,41-50,14,64060,2010-03-12,Campus,employee71@company.com
+72,First72,Last72,Female,Finance,Divorced,51-60,4,113191,2010-03-13,Referral,employee72@company.com
+73,First73,Last73,Female,Marketing,Single,20-30,15,134443,2010-03-14,LinkedIn,employee73@company.com
+74,First74,Last74,Male,Finance,Single,51-60,10,69750,2010-03-15,Referral,employee74@company.com
+75,First75,Last75,Female,Finance,Single,51-60,11,124021,2010-03-16,Referral,employee75@company.com
+76,First76,Last76,Male,Sales,Single,31-40,14,64223,2010-03-17,Job Board,employee76@company.com
+77,First77,Last77,Female,HR,Single,51-60,3,109687,2010-03-18,Job Board,employee77@company.com
+78,First78,Last78,Female,Finance,Divorced,41-50,16,131074,2010-03-19,LinkedIn,employee78@company.com
+79,First79,Last79,Female,IT,Single,41-50,13,47805,2010-03-20,LinkedIn,employee79@company.com
+80,First80,Last80,Male,Finance,Married,51-60,13,66231,2010-03-21,Job Board,employee80@company.com
+81,First81,Last81,Female,HR,Married,20-30,17,41061,2010-03-22,Referral,employee81@company.com
+82,First82,Last82,Male,HR,Married,51-60,4,64643,2010-03-23,Referral,employee82@company.com
+83,First83,Last83,Male,Marketing,Married,20-30,15,80690,2010-03-24,LinkedIn,employee83@company.com
+84,First84,Last84,Female,IT,Single,31-40,5,129772,2010-03-25,Job Board,employee84@company.com
+85,First85,Last85,Male,Finance,Divorced,31-40,11,40671,2010-03-26,Referral,employee85@company.com
+86,First86,Last86,Male,Sales,Divorced,41-50,17,40073,2010-03-27,LinkedIn,employee86@company.com
+87,First87,Last87,Male,Sales,Married,31-40,5,69510,2010-03-28,Campus,employee87@company.com
+88,First88,Last88,Male,Finance,Divorced,31-40,16,118995,2010-03-29,LinkedIn,employee88@company.com
+89,First89,Last89,Female,Sales,Married,31-40,6,133005,2010-03-30,Referral,employee89@company.com
+90,First90,Last90,Female,IT,Divorced,51-60,3,86748,2010-03-31,LinkedIn,employee90@company.com
+91,First91,Last91,Female,Finance,Single,41-50,14,58868,2010-04-01,Referral,employee91@company.com
+92,First92,Last92,Male,Marketing,Divorced,20-30,5,59952,2010-04-02,Job Board,employee92@company.com
+93,First93,Last93,Female,Marketing,Divorced,20-30,16,37278,2010-04-03,Campus,employee93@company.com
+94,First94,Last94,Male,IT,Married,51-60,19,120652,2010-04-04,Campus,employee94@company.com
+95,First95,Last95,Male,Finance,Single,31-40,2,62580,2010-04-05,Job Board,employee95@company.com
+96,First96,Last96,Female,Finance,Divorced,31-40,13,118222,2010-04-06,Referral,employee96@company.com
+97,First97,Last97,Male,Marketing,Divorced,51-60,13,118524,2010-04-07,Referral,employee97@company.com
+98,First98,Last98,Female,HR,Divorced,51-60,18,82276,2010-04-08,Job Board,employee98@company.com
+99,First99,Last99,Male,Marketing,Divorced,20-30,4,119326,2010-04-09,Campus,employee99@company.com
+100,First100,Last100,Male,Finance,Single,41-50,12,61741,2010-04-10,Job Board,employee100@company.com
